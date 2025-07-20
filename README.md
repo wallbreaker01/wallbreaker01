@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br> Medi-Consult<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Medi-Consult<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about My hobbies<br>
 
 
 ## 🌐 Socials:
